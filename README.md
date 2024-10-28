@@ -27,6 +27,13 @@ explorar cómo la tecnología puede integrarse con el mundo natural y las ideas 
 ![Imagen CSS (pequeño)](https://github.com/user-attachments/assets/b515e44a-0800-4267-8b16-9dbd4629f37a)
 ![Imagen java script (pequeño)](https://github.com/user-attachments/assets/28f83954-32d5-4ace-8269-262e6a365346)
 
+## Stack Tecnológico del Curso
+| Lenguajes de Programación | Frameworks | Bases de Datos |
+|---------------------------|------------|----------------|
+| Java                      | React      | MySQL          |
+| JavaScript                | Node.js    | MongoDB        |
+| Python                    | Django     | Docker         |
+
 
 ## Intereses
 - Desarrollo Web
