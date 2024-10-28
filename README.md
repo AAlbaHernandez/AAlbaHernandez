@@ -13,14 +13,10 @@ Soy estudiante de Desarrollo de Aplicaciones Web (DAW). Apasionado por la tecnol
 - Correo Electrónico
 
 ## Habilidades
-
-![Imagen _HTML5 (mas pequeño)](https://github.com/user-attachments/assets/0c51f4da-2588-47e7-ab6d-6b701218c5c0)
-
-![Imagen CSS](https://github.com/user-attachments/assets/6dd84153-23a6-44ef-9429-a032fbd636eb)
-
-- JavaScript
-- React
-- Node.js
+![Imagen _HTML5 (pequeño)](https://github.com/user-attachments/assets/ba942f28-2e73-424d-b3a9-6e13c95738d2)
+![imagen c++ (pequeño)](https://github.com/user-attachments/assets/4609004f-b1c3-41e0-a724-661029fcee40)
+![Imagen CSS (pequeño)](https://github.com/user-attachments/assets/7700e36c-7f9e-4df2-a624-844f81bd1052)
+![Imagen java script (pequeño)](https://github.com/user-attachments/assets/28f83954-32d5-4ace-8269-262e6a365346)
 
 ## Educación
 - **Instituto**: Nombre del instituto
