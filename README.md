@@ -10,7 +10,7 @@ explorar cómo la tecnología puede integrarse con el mundo natural y las ideas 
 - **Trabajo Actual**: Tecnico de Telecomunicaciones. 
 ## Formacion actual
 - **Entidad Educativa**: Centro Integral de Formación Profesional a Distancia "La conservera" - Región de Murcia. 🏫
-- 
+ 
 - **Nivel Educativo**: Formación Profesional de Grado Superior : técnico superior en Desarrollo de
  Aplicaciones Web / Multiplataforma. 🖥️
 
