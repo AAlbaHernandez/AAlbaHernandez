@@ -8,17 +8,19 @@ Soy estudiante de Desarrollo de Aplicaciones Web (DAW). Apasionado por la tecnol
 - **Proyecto 2**: Descripción breve del proyecto.
 
 ## Contacto
-- 2833459@alu.murciaeduca.es
+- LinkedIn
+- Twitter
+- Correo Electrónico
 
 ## Habilidades
-- HTML
+!HTML
 - CSS
 - JavaScript
 - React
 - Node.js
 
 ## Educación
-- **Instituto**: CIFP LA CONSERVERA
+- **Instituto**: Nombre del instituto
 - **Curso**: Desarrollo de Aplicaciones Web
 
 ## Intereses
