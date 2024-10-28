@@ -14,15 +14,12 @@ explorar cómo la tecnología puede integrarse con el mundo natural y las ideas 
 - **Nivel Educativo**: Formación Profesional de Grado Superior : técnico superior en Desarrollo de
  Aplicaciones Web / Multiplataforma. 🖥️
 
- - **Asignaturas Matriculadas**:  - Bases de Datos.
- - Digitalizacion Aplicada al Sistema Productivo DAW.
- - Entornos de Desarrollo.
- - Ingles Profesional DAW.
- - Itinerario Personal para la Empleabilidad 1.
- - Lenguaje de Marcas y Sistemas de Gestion de Informacion.
- - Programacion.
- - Sistemas Informaticos.
-
+ - **Asignaturas Matriculadas**:
+  ✔ Sistemas Informáticos.
+  ✔ Programación.
+  ✔ Bases de Datos.
+  ✔ Lenguajes de Marcas y Sistemas de Gestión de Información.
+  ✔ Entornos de Desarrollo.
 
 ## Contacto
 - 2833459@alu.murciaeduca.es
