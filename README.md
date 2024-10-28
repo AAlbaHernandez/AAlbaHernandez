@@ -21,9 +21,6 @@ explorar cómo la tecnología puede integrarse con el mundo natural y las ideas 
   ✔ Lenguajes de Marcas y Sistemas de Gestión de Información.
   ✔ Entornos de Desarrollo.
 
-## Contacto
-- 2833459@alu.murciaeduca.es
-
 ## Habilidades
 ![Imagen _HTML5 (pequeño)](https://github.com/user-attachments/assets/ba942f28-2e73-424d-b3a9-6e13c95738d2)
 ![imagen c++ (pequeño)](https://github.com/user-attachments/assets/4609004f-b1c3-41e0-a724-661029fcee40)
@@ -34,6 +31,12 @@ explorar cómo la tecnología puede integrarse con el mundo natural y las ideas 
 ## Intereses
 - Desarrollo Web
 - Inteligencia Artificial
+
+
+## Contacto
+- 2833459@alu.murciaeduca.es
+
+
 
 *"El pasado es un recuerdo, el futuro un sueño y el presente un regalo"* -Angel Alba
 
