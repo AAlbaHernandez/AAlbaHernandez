@@ -13,7 +13,8 @@ Soy estudiante de Desarrollo de Aplicaciones Web (DAW). Apasionado por la tecnol
 - Correo Electrónico
 
 ## Habilidades
-!HTML
+![Imagen _HTML5 (pequeño)](https://github.com/user-attachments/assets/383c78b1-3a4a-407f-8f62-f2e359af4896)
+
 - CSS
 - JavaScript
 - React
