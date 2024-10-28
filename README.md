@@ -1,12 +1,30 @@
-- 👋 Hola, mi nombre es Angel, tecnico y estudiante de DAW.
-- 👀 Estoy interesado en las nuevas tecnologias y en los avances mas revolucionarios y eficientes.
-- 🌱 Me encuentro aprendiendo Lenguajes de Marcas y demas disciplinas para formar parte y ejecer lo que me apasiona.
-- 💞️ Me gustaria colaborar con las grandes empresas tecnologicas del momento y formar parte de sus grandes proyectos.
-- 📫 Puedes ponerte en contacto conmigo a traves de mi email 2833459@alu.murciaeduca.es
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# ¡Hola! Soy Angel Alba 👋
 
-<!---
-AAlbaHernandez/AAlbaHernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre mí
+Soy estudiante de Desarrollo de Aplicaciones Web (DAW). Apasionado por la tecnología y el desarrollo de software, siempre estoy buscando aprender y mejorar mis habilidades.
+
+## Proyectos Destacados
+- **Proyecto 1**: Descripción breve del proyecto.
+- **Proyecto 2**: Descripción breve del proyecto.
+
+## Contacto
+- 2833459@alu.murciaeduca.es
+
+## Habilidades
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+
+## Educación
+- **Instituto**: CIFP LA CONSERVERA
+- **Curso**: Desarrollo de Aplicaciones Web
+
+## Intereses
+- Desarrollo Web
+- Inteligencia Artificial
+- Aprendizaje Automático
+- Juegos de Video
+
+¡Gracias por visitar mi perfil!
